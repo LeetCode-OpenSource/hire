@@ -1,0 +1,19 @@
+{
+  "name": "webpack-zh",
+  "version": "1.0.0",
+  "description": "predictable long term cache problem",
+  "main": "index.js",
+  "author": "lynweklm@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
