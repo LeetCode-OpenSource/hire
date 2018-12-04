@@ -15,7 +15,7 @@
 ### 伪 TS 代码
 
 ```typescript
-class AutocompletaController {
+class AutocompleteController {
   /**
    * 每次用户输入任意值，都会从 payload$ 流中获得
    * 比如，用户依次输入 a, b, c
