@@ -37,6 +37,8 @@ class AutocompleteController {
   toggleWarning: (isShown?: boolean) => void;
   // 发送请求，获取搜索结果
   searchQuery: (str: string) => Observable<User[]>;
+  // 更新搜索结果列表
+  setSearchResults: (users: User[]) => void;
 
   // 你要实现的方法
   getAutoSearch() {
