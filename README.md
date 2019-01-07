@@ -17,7 +17,7 @@
 
 LeetCode 中国的前端团队工作内容:
 
-- [LeetCode | 领扣](https://leetcode-cn.com) 站点的开发与维护
+- [LeetCode | 力扣](https://leetcode-cn.com) 站点的开发与维护
   
   - 维护 Angular1 + jQuery + bootstrap 的 legacy 代码
   - 开发基于 GraphQL + React + RxJS + TypeScript 的单页应用
