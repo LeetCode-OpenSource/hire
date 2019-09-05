@@ -38,6 +38,7 @@ LeetCode 中国的前端团队工作内容:
 
 #### 展现你的能力
 
+- [基础编程能力](./fondations_zh.md)
 - [编写复杂的 TypeScript 类型](./typescript_zh.md)
 - [用 Webpack 实现 predictable long term cache](./webpack_zh.md)
 - [编写工程化的组件](./engineering_zh.md)
