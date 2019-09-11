@@ -69,13 +69,13 @@ TypeError: Error raised
 ```
 
 ## 要求
-请使用 `TypeScript` 完成 [index.ts](./fondations-zh/src/index.ts) 中的函数.
+请使用 `TypeScript` 完成 [index.ts](./foundations-zh/src/index.ts) 中的函数.
 可以引入部分工具类第三方库，比如 `Lodash`.
 
 ## 评判标准
 
 - 完成所描述功能. `50 分`
 - 完整的单元测试，覆盖 `输入` 中举例的 `Chrome` 和 `Firefox` 的两个 `Fixture`. `30 分`
-- 配置 `lint` 与 `formart`. `10 分`
+- 配置 `lint` 与 `format`. `10 分`
 - 配置 `precommit` 与 `commitlint`. `10 分`
 - 配置 `CI`, 并且在 `CI` 上运行 `单元测试与 Lint`. `30 分`

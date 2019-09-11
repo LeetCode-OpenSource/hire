@@ -1,7 +1,7 @@
 {
-  "name": "@leetcode-hire/fondations-zh",
+  "name": "@leetcode-hire/foundations-zh",
   "version": "1.0.0",
-  "description": "Frontend fondation problem for leetcode-cn.com",
+  "description": "Frontend foundation problem for leetcode-cn.com",
   "main": "lib/index.js",
   "repository": "https://github.com/LeetCode-OpenSource/hire",
   "author": "lynweklm@gmail.com",
