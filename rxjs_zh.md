@@ -26,6 +26,7 @@ class AutocompleteController {
   subscription: Subscription;
 
   constructor() {
+    // 除了此处的 .subscribe() 调用，其他地方都不应该调用 Observable/Subject 的 subscribe 方法
     this.subscription = this.getAutoSearch().subscribe();
   }
 
