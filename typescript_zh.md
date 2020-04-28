@@ -108,7 +108,7 @@ const connected: Connected = connect(effectModule)
 
 ## 要求
 
-在 [题目链接](https://codesandbox.io/s/o4wwpzyzkq) 里面的 `index.ts` 文件中，有一个 `type Connect = (module: EffectModule) => any`，将 `any` 替换成题目的解答，让编译能够顺利通过，并且 `index.ts` 中 `connected` 的类型与:
+在 [题目链接](https://codesandbox.io/s/4tmtp) 里面的 `index.ts` 文件中，有一个 `type Connect = (module: EffectModule) => any`，将 `any` 替换成题目的解答，让编译能够顺利通过，并且 `index.ts` 中 `connected` 的类型与:
 
 ```typescript
 type Connected = {
