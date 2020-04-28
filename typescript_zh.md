@@ -37,7 +37,7 @@ class EffectModule {
     return input.then(i => ({
       payload: `hello ${i}!`,
       type: 'delay'
-    });
+    }));
   }
 
   setMessage(action: Action<Date>) {
@@ -83,7 +83,7 @@ class EffectModule {
     return input.then(i => ({
       payload: `hello ${i}!`,
       type: 'delay'
-    });
+    }));
   }
 
   setMessage(action: Action<Date>) {
