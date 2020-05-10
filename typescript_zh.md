@@ -51,7 +51,7 @@ class EffectModule {
 
 
 
-现在有一个叫 `connect` 的函数，它接受 EffectModule 实例，将它变成另一个一个对象，这个对象上只有**EffectModule 的同名方法**，但是方法的类型签名被改变了:
+现在有一个叫 `connect` 的函数，它接受 EffectModule 实例，将它变成另一个对象，这个对象上只有**EffectModule 的同名方法**，但是方法的类型签名被改变了:
 
 ```ts
 asyncMethod<T, U>(input: Promise<T>): Promise<Action<U>>  变成了
